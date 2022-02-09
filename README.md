@@ -21,6 +21,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
+![output](1.jpeg)
 
 
 ## RESULT:
